@@ -1,0 +1,40 @@
+path,true,predicted,confidence,correct
+imagens_andre/andre_metal_01.jpeg,metal,plastico,0.9462394118309021,False
+imagens_andre/andre_metal_02.jpeg,metal,metal,0.47457677125930786,True
+imagens_andre/andre_papel_01.jpeg,papel,papel,0.9898176789283752,True
+imagens_andre/andre_papel_02.jpeg,papel,papel,0.996670126914978,True
+imagens_andre/andre_papel_03.jpeg,papel,papel,0.9984646439552307,True
+imagens_andre/andre_plastico_01.jpeg,plastico,plastico,0.9962451457977295,True
+imagens_andre/andre_plastico_02.jpeg,plastico,vidro,0.6027728319168091,False
+imagens_andre/andre_vidro_01.jpeg,vidro,vidro,0.7323014140129089,True
+imagens_andre/andre_vidro_02.jpeg,vidro,plastico,0.3651907742023468,False
+imagens_andre/andre_vidro_03.jpeg,vidro,vidro,0.5067897439002991,True
+imagens_antonio/antonio_metal_01.jpeg,metal,papel,0.9898635149002075,False
+imagens_antonio/antonio_metal_02.jpeg,metal,metal,0.7866093516349792,True
+imagens_antonio/antonio_papel_01.jpg,papel,papel,0.9982775449752808,True
+imagens_antonio/antonio_papel_02.jpeg,papel,papel,0.9553217887878418,True
+imagens_antonio/antonio_papel_03.jpeg,papel,papel,0.9995824694633484,True
+imagens_antonio/antonio_plastico_01.jpeg,plastico,plastico,0.6912152767181396,True
+imagens_antonio/antonio_plastico_02.jpeg,plastico,plastico,0.9346911311149597,True
+imagens_antonio/antonio_plastico_03.jpeg,plastico,papel,0.5499876141548157,False
+imagens_antonio/antonio_vidro_01.jpeg,vidro,vidro,0.787155270576477,True
+imagens_antonio/antonio_vidro_02.jpeg,vidro,papel,0.48210370540618896,False
+imagens_matheus/matheus_metal_01.jpeg,metal,vidro,0.48885488510131836,False
+imagens_matheus/matheus_metal_02.jpeg,metal,metal,0.7933540344238281,True
+imagens_matheus/matheus_metal_03.jpeg,metal,papel,0.6630672216415405,False
+imagens_matheus/matheus_papel_02.jpeg,papel,papel,0.9999929070472717,True
+imagens_matheus/matheus_plastico_01.jpeg,plastico,plastico,0.9959087371826172,True
+imagens_matheus/matheus_plastico_02.jpeg,plastico,metal,0.611575186252594,False
+imagens_matheus/matheus_vidro_01.jpeg,vidro,vidro,0.6913526654243469,True
+imagens_matheus/matheus_vidro_02.jpeg,vidro,vidro,0.9850912690162659,True
+imagens_matheus/matheus_vidro_03.jpeg,vidro,plastico,0.8671712875366211,False
+imagens_thiago/thiago_metal_ 01.jpeg,metal,papel,0.9984842538833618,False
+imagens_thiago/thiago_metal_ 02.jpeg,metal,metal,0.9451766014099121,True
+imagens_thiago/thiago_metal_ 03.jpeg,metal,papel,0.9994786381721497,False
+imagens_thiago/thiago_papel_ 01.jpeg,papel,metal,0.8603739142417908,False
+imagens_thiago/thiago_papel_ 02.jpeg,papel,papel,0.822905957698822,True
+imagens_thiago/thiago_plastico_ 01.jpeg,plastico,metal,0.8894168734550476,False
+imagens_thiago/thiago_plastico_ 02.jpeg,plastico,papel,0.7063881158828735,False
+imagens_thiago/thiago_plastico_ 03.jpeg,plastico,metal,0.48745039105415344,False
+imagens_thiago/thiago_vidro_ 01.jpeg,vidro,metal,0.4836895167827606,False
+imagens_thiago/thiago_vidro_ 02.jpeg,vidro,metal,0.4777469038963318,False

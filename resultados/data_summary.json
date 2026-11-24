@@ -1,0 +1,39 @@
+{
+  "seed": 42,
+  "classes": [
+    "papel",
+    "plastico",
+    "vidro",
+    "metal"
+  ],
+  "counts": {
+    "public_test": {
+      "papel": 150,
+      "plastico": 72,
+      "vidro": 75,
+      "metal": 62
+    },
+    "train": {
+      "papel": 697,
+      "plastico": 336,
+      "vidro": 348,
+      "metal": 285
+    },
+    "val": {
+      "papel": 150,
+      "plastico": 72,
+      "vidro": 75,
+      "metal": 62
+    },
+    "local_test": {
+      "metal": 10,
+      "papel": 9,
+      "plastico": 10,
+      "vidro": 10
+    }
+  },
+  "excluded_public": {
+    "conflicting_labels": 6
+  },
+  "trashnet_url": "https://github.com/garythung/trashnet/raw/refs/heads/master/data/dataset-resized.zip"
+}

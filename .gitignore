@@ -1,10 +1,21 @@
 # Python-generated files
 __pycache__/
-*.py[oc]
+*.py[ocd]
 build/
 dist/
 wheels/
-*.egg-info
+*.egg-info/
 
-# Virtual environments
-.venv
+# Virtual environments and test artifacts
+.venv/
+.pytest_cache/
+
+# Downloaded data and experiment outputs
+data/
+runs/
+
+# Complete Colab output (a compact summary is in resultados/)
+/triagem-resultados.zip
+
+# Optional public-image examples, outside the final experiment
+/fixtures/*.zip
